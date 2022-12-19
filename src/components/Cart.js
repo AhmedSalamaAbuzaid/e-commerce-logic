@@ -17,7 +17,7 @@ function Cart () {
     console.log(totalPrice);
     return (
         <Container className="py-5">
-            <h1 className="py-5">Welcom To Cart</h1>
+            <h1 className="py-5">Welcom To Cart...</h1>
             <Button variant="primary" className="mb-3" onClick={()=>dispatch(clear())}>Clear Cart</Button>
             <h5>Total Price: {totalPrice.toFixed(2)} $</h5>
             <Table striped bordered hover size="sm">
