@@ -1,5 +1,5 @@
 https://ahmedsalamaabuozeid.surge.sh/cart
-[see the project live](https://ahmedsalamaabuozeid.surge.sh/cart).
+[see the project live](https://ahmedsalamaabuozeid.surge.sh).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
