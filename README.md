@@ -70,3 +70,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+To upload one surge host you need first 
+```
+//in the build folder
+ npm install --global surge
+ surge
+```
+if you want to make any changes you have to 
+```
+npm run build
+ //in build folder
+ surge
+ 
+ // but you have to make sure that you edit the new domain by the old one 
+ enter
+ //succsess
+```
