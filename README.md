@@ -1,5 +1,5 @@
 
-[see the project live](https://ahmedsalamaabuozeid.surge.sh).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -88,3 +88,11 @@ npm run build
  enter
  //succsess
 ```
+#You can check th live link now 
+ [see the project live on surge](https://ahmedsalamaabuozeid.surge.sh).
+ 
+ or you'd better use netlify
+ 
+so easy drag and drop build folder 
+ [see the project live on netlify](https://ecommerce-logics.netlify.app/).
+
