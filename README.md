@@ -94,5 +94,5 @@ npm run build
  or you'd better use netlify
  
 so easy drag and drop build folder 
- [see the project live on netlify](https://ecommerce-logics.netlify.app/).
+ [see the project live on netlify](https://ecommerce-logics.netlify.app/)..
 
